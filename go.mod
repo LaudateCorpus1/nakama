@@ -24,7 +24,6 @@ require (
 	go.uber.org/atomic v1.10.0
 	go.uber.org/zap v1.23.0
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a
-	golang.org/x/oauth2 v0.0.0-20221006150949-b44042a4b9c1
 	google.golang.org/genproto v0.0.0-20220822174746-9e6da59bd2fc
 	google.golang.org/grpc v1.50.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0
@@ -73,6 +72,6 @@ require (
 	github.com/twmb/murmur3 v1.1.6 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
